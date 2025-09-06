@@ -1,0 +1,19 @@
+Day 2: 7th Sept, 2025
+Slides: https://100x-b-mcdn.akamai.net.in/cohort-2-slides/week+1.2.pdf
+
+==============================  INDEX ========================
+
+Why Languages
+Interpreted vs Compiled Languages
+Why Js >> Other Languages
+Strickt vs Dynamic Languages
+Sigle Threaded nature of Js.
+Simple Primitives in Js (Number, String)
+Complex Primitives in Js (Arrays, Objects)
+Functions in Javascript
+Practice Problem Solving
+Callback Functions, Event Loops, Callbacks
+Call Backhell and Promises.
+
+==============================================================
+
