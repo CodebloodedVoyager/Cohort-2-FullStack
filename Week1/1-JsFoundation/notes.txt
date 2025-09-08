@@ -13,10 +13,10 @@ Week: 1.2 Javascript Foundation
 5. Sigle Threaded nature of Js.
 6. Simple Primitives in Js (Number, String, booleans)
 7. Complex Primitives in Js (Arrays, Objects)
-Functions in Javascript
-Practice Problem Solving
-Callback Functions, Event Loops, Callbacks
-Call Backhell and Promises.
+8. Functions in Javascript
+9. Practice Problem Solving
+10. Callback Functions, Event Loops, Callbacks
+11. Call Backhell and Promises.
 
 ==============================================================
 📘 JavaScript Foundations (Week 1.2)
@@ -28,8 +28,7 @@ High-level → Easy for humans, machine translates it to low-level (binary).
 2. Interpreted vs Compiled
 Compiled: Entire code converted to machine code before execution (e.g., C, C++). Faster runtime.
 Interpreted: Line-by-line execution (e.g., JavaScript, Python). Easier debugging, slower runtime.
-
-JS: Interpreted but modern engines (V8) use JIT (Just-in-Time) compilation for speed.
+0S: Interpreted but modern engines (V8) use JIT (Just-in-Time) compilation for speed.
 
 3. Why JS >> Other Languages?
 Runs directly in browser (client-side).
@@ -48,7 +47,7 @@ Uses Event Loop + Callbacks to manage async tasks.
 Non-blocking I/O makes it powerful despite single-threading.
 
 6. Simple Primitives
-Numbers → let x = 10;
+Numbers → let x = "anyVariable"; var y = "canChange", const = "cantChange"
 Strings → "hello"
 Stored as immutable values.
 
