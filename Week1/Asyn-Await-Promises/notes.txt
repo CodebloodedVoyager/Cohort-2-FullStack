@@ -1,0 +1,15 @@
+- Understand how Synchronous & Asynchronous, Asyn - Await, Prosses work.
+- Understand Callbacks, Web APIs, Callstacks, Callback queue.
+- visit latentfilp.com (laupe) to get it visualized.
+- Checkout an amazing visualized resource by Lydia Halie.
+- Promises. (Jargon to be covered)
+
+
+===================== Async functions VS Sync functions =================
+
+1. setTimeout() : Asynchronous function.
+2. fs.readFile : to read a file from filesystem (fs)
+3. Fetch : to fetch some data from an API endpoint.
+
+
+
