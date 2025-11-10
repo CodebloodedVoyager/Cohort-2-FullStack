@@ -13,12 +13,12 @@
 function findSum(n){
     let ans = 0;
     for (i=0; i<= n; i++){
-        ans += i; // ans + 1 = ans
+        ans += i; // ans + i = ans
     }
     return ans;
 }
 
-syncSleep
+// syncSleep
 
 function findSumTill100(){
     console.log(findSum(100));
